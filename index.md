@@ -5,7 +5,7 @@
 ### My Creative Works
 
 [Project 1 Title](/sample_page)
-<img src="images/ripeffect2.jpg?raw=true"/>
+<img src="images/ripeffect2.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
