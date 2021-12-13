@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/earth.jpg?raw=true"/>
+<img src="images/bruin.jpg?raw=true"/>
 
 ---
 
