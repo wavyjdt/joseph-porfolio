@@ -16,7 +16,10 @@
 <img src="images/eath.jpg?raw=true"/>
 
 ---
+[Project 4 Title](http://example.com/)
+<img src="images/ucla.png?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
